@@ -90,4 +90,4 @@ This dashboard demonstrates practical **data analytics and business intelligence
 
 ## 📎 Author
 **Vighnesh Kadam**  
-Aspiring Data Analyst | Power BI | SQL | Python
+Data Analyst | Power BI | SQL | Python
